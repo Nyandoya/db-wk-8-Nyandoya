@@ -110,5 +110,5 @@ Contributions are welcome!
 5. Open a pull request.
 
 # ERD for the Database
-![Inventory ERD](erd.png)
+![Inventory ERD](ERD.png)
 
