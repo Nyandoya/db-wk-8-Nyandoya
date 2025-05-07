@@ -112,3 +112,4 @@ Contributions are welcome!
 # ERD for the Database
 ![Inventory ERD](ERD.png)
 
+Thank You!
